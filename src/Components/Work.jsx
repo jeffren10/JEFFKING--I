@@ -1,6 +1,6 @@
   import React from 'react'
   import Working from '../assets/Working.png';
-  import RealEstate from '../assets/RealEstate.jpeg'
+  import Realestate from '../assets/Realestate.jpeg'
 
   const Work = () => {
     return (
@@ -33,7 +33,7 @@
 
     {/* Grid effects */}
             <div
-            style= {{backgroundImage: `url(${RealEstate})`} } 
+            style= {{backgroundImage: `url(${Realestate})`}} 
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div '>
 
         {/* Hover Effects */}
@@ -69,7 +69,7 @@
             </div>
 
             <div
-            style= {{backgroundImage: `url(${RealEstate})`}} 
+            style= {{backgroundImage: `url(${Realestate})`}} 
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div '>
 
         {/* Hover Effects */}
@@ -103,7 +103,7 @@
             </div>
 
             <div
-            style= {{backgroundImage: `url(${RealEstate})`}} 
+            style= {{backgroundImage: `url(${Realestate})`}} 
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div '>
 
         {/* Hover Effects */}
