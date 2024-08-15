@@ -19,7 +19,7 @@ const Contact = () => {
       <form onSubmit={onFinish} className='flex flex-col max-w-[600px] w-full'> 
         <div className=''> 
           <p className='text-4xl font-bold inline border-b-4 border-pink-600 text-gray-300 '>Contact </p>
-          <p className='text-gray-300 py-2'>// submit the form below or shoot me an email -ijeffren1@gmail.com </p>
+          <p className='text-gray-300 py-2'>// submit the form below or shoot me an email- ijeffren1@gmail.com </p>
         </div>
         <input htmlFor="name" className='bg-[#ccd6f6] p-2' type='text' placeholder='Name' name='name'id='name' />
         <input htmlFor="email" className='my-4 p-2 bg-[#ccd6f6] ' type='email' placeholder='Email'id='email' name='email' />
